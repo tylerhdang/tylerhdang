@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Let's+Go+Gamble;Open+Source+Enthusiast;Everything+on+Red+🔴)
 
 </div>
 
@@ -16,7 +16,7 @@ I would suddenly gain a boost in motivation.
 - I get really excited about crypto, stock market (putting everything in $BYND and $SHIB)
 - I love calculating odds, applying data to get edge for Gambling and Sport Betting
   (I recently loss $1000+ at Crown Casino)
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
+- Ask me about **Gambling, Sport Betting, Crypto, Stock Market, oh yeah and the programming stuffs**
 - Contact me: **tylerhdang@protonmail.com**
 
 
@@ -76,14 +76,14 @@ I would suddenly gain a boost in motivation.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tylerhdang&theme=react-dark&hide_border=true&area=true)
 
-//## 🎯 Featured Projects
+<!--## 🎯 Featured Projects
 
-//<div align="center">
+<div align="center">
 
-//[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
-//[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
-//</div>
+</div>-->
 
 ## 🌐 Connect With Me
 
@@ -91,17 +91,17 @@ I would suddenly gain a boost in motivation.
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerdang14)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tylerhdang@protonmail.com)
 
 </div>
 
-//## 💭 Random Dev Quote
+<!--## 💭 Random Dev Quote
 
-//<div align="center">
+<div align="center">
   
- // ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-//</div>
+</div>-->
 
 ## 👀 Profile Views
 
