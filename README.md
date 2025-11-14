@@ -53,23 +53,23 @@ I would suddenly gain a boost in motivation.
 
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=radical&hide_border=true&bg_color=black)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=radical&hide_border=true&background=black)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=radical&hide_border=true&bg_color=black)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=tylerhdang&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=tylerhdang&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -113,10 +113,8 @@ I would suddenly gain a boost in motivation.
 </div>
 
 ---
-
-<div align="center">
-
 ## Feeling Lucky?
+<div align="center">
 
 <img src="./roulette.png" width="600" alt="European Roulette"/>
 
