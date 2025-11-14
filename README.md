@@ -6,6 +6,18 @@
 
 </div>
 
+<div align="center">
+
+## 🎮 League of Legends
+
+[![OP.GG](https://img.shields.io/badge/OP.GG-Profile-7289DA?style=for-the-badge&logo=riot-games&logoColor=white)](https://na.op.gg/summoners/na/umbravore)
+
+**Current Rank:** Gold II  
+**Main Role:** Mid Lane  
+**Time Played:** 500+ hours this season
+
+</div>
+
 ## About Me
 
 I'm a unemployed used to be 20 years old who also happens to have a degree in Computer Science during the AI Bubble.
