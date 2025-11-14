@@ -14,6 +14,7 @@ I would suddenly gain a boost in motivation.
 - I love turning ideas into reality (for whenever I want to and with AI)
 - I commit directly to production with zero tests (drag and drop no Git needed)
 - I create beautiful Dashboard and User Interface (HTML, Tailwind only)
+- I love to contribute to Open Source Project (Commit AI Generated code to FFmpeg)
 - I get really excited about crypto, stock market (putting everything in $BYND and $SHIB)
 - I love calculating odds, applying data to get edge for Gambling and Sport Betting
   (I recently loss $1000+ at Crown Casino)
@@ -113,12 +114,12 @@ I would suddenly gain a boost in motivation.
 </div>
 
 ---
-## 🎰 Feeling Lucky?
-
 <div align="center">
-  
-  <img src="https://www.natural8.com/blog/wp-content/uploads/2023/08/roulette-table-wheel-and-betting-layout.jpg" width="700" alt="Roulette Table"/>
-  
-  *Place your bets on your next coding adventure!*
+
+## 🎰 GitHub Roulette
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/European_roulette.svg/1200px-European_roulette.svg.png" width="500" alt="Roulette Wheel"/>
+
+*Spin the wheel of coding fortune!*
 
 </div>
