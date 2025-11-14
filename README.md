@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Let's+Go+Gamble;Open+Source+Enthusiast;Everything+on+Red+🔴)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Let's+Go+Gamble;Banker+Only;Everything+on+Red+🔴)
 
 </div>
 
@@ -113,13 +113,4 @@ I would suddenly gain a boost in motivation.
 
 </div>
 
----
-<div align="center">
 
-## 🎰 GitHub Roulette
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/European_roulette.svg/1200px-European_roulette.svg.png" width="500" alt="Roulette Wheel"/>
-
-*Spin the wheel of coding fortune!*
-
-</div>
