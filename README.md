@@ -113,11 +113,12 @@ I would suddenly gain a boost in motivation.
 </div>
 
 ---
-## Feeling Lucky?
+## 🎰 Feeling Lucky?
+
 <div align="center">
-
-<img src="[./roulette.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.natural8.com%2Fen%2Fblog%2Froulette-table-wheel-and-betting-layout&psig=AOvVaw0l0dPBpDvK5Y6lQG90DBmo&ust=1763168843905000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPCVhve58JADFQAAAAAdAAAAABAE)" width="600" alt="European Roulette"/>
-
-*Place your bets on your next coding project!*
+  
+  <img src="https://www.natural8.com/blog/wp-content/uploads/2023/08/roulette-table-wheel-and-betting-layout.jpg" width="700" alt="Roulette Table"/>
+  
+  *Place your bets on your next coding adventure!*
 
 </div>
