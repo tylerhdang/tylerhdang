@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tyler Dang, your typical vibe coder
+# Hi, I'm Tyler Dang, your typical vibe coder
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a unemployed used to be 20 years old who also happens to have a degree in Computer Science during the AI Bubble.
 I am the most lazy and underproductive person you will ever met, but when confronted with any of my personal interest,
@@ -20,7 +20,7 @@ I would suddenly gain a boost in motivation.
 - Contact me: **tylerhdang@protonmail.com**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,19 +52,19 @@ I would suddenly gain a boost in motivation.
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=radical&hide_border=true&bg_color=)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=radical&hide_border=true&background=0D1117)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=radical&hide_border=true&background=)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=radical&hide_border=true&bg_color=)
 
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -72,7 +72,7 @@ I would suddenly gain a boost in motivation.
 
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tylerhdang&theme=react-dark&hide_border=true&area=true)
 
@@ -85,7 +85,7 @@ I would suddenly gain a boost in motivation.
 
 </div>-->
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -95,7 +95,7 @@ I would suddenly gain a boost in motivation.
 
 </div>
 
-<!--## 💭 Random Dev Quote
+<!--## Random Dev Quote
 
 <div align="center">
   
@@ -103,7 +103,7 @@ I would suddenly gain a boost in motivation.
 
 </div>-->
 
-## 👀 Profile Views
+## Profile Views
 
 <div align="center">
   
@@ -117,6 +117,6 @@ I would suddenly gain a boost in motivation.
   
   ### Show some ❤️ by starring some of the repositories!
   
-  ![Snake animation](https://raw.githubusercontent.com/tylerhdang/tylerhdang/output/github-contribution-grid-snake-dark.svg)
+  ![Roulette Table](https://raw.githubusercontent.com/tylerhdang/tylerhdang/output/github-contribution-grid-snake-dark.svg)
 
 </div>
