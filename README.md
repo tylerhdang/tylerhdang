@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tyler Dang, your typical vibe coder
 
 <div align="center">
   
@@ -8,9 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to open source. I believe in writing clean, maintainable code and constantly learning new technologies.
-
-- 🔭 I'm currently working on **[Your Current Project]**
+I'm a unemployed used to be 20 years old who also happens to have a degree in Computer Science during the AI Bubble.
+- I love Gam
 - 🌱 I'm currently learning **[Technology/Framework]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
@@ -53,11 +52,11 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=radical&hide_border=true&background=0D1117)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -65,13 +64,13 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=tylerhdang&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tylerhdang&theme=react-dark&hide_border=true&area=true)
 
 ## 🎯 Featured Projects
 
