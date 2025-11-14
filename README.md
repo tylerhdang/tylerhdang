@@ -111,14 +111,17 @@ I would suddenly gain a boost in motivation.
 
 </div>-->
 
-## Buy me a Coffee
+## Support My Work
+
+Buy me a coffee so I can keep building random apps on my own terms.  
+All excess proceeds will go toward <span style="color:red">RED</span>!
 
 <div align="center">
 
-  Donate to me directly so I can keep building random app on my own terms
-  [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/YOUR_USERNAME)
-  All excess proceeding will go toward RED!!!
-  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://www.buymeacoffee.com/YOUR_USERNAME)
+
+[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_ID)
+
 </div>
 
 
