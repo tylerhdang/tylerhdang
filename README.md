@@ -18,7 +18,7 @@ I would suddenly gain a boost in motivation.
 - I get really excited about crypto, stock market (putting everything in $BYND and $SHIB)
 - I love calculating odds, applying data to get edge for Gambling and Sport Betting
   (I recently loss $1000+ at Crown Casino)
-- Ask me about **Gambling, Sport Betting, Crypto, Stock Market, oh yeah and the programming stuffs**
+- Ask me about **Gambling, Sport Betting, Crypto, Stock Market** (oh yeah and the programming stuffs)
 - Contact me: **tylerhdang@protonmail.com** (yeah I know, I use ProtonMail)
 
 
