@@ -12,12 +12,13 @@ I'm a unemployed used to be 20 years old who also happens to have a degree in Co
 I am the most lazy and underproductive person you will ever met, but when confronted with any of my personal interest,
 I would suddenly gain a boost in motivation.
 - I love turning ideas into reality (for whenever I want to and with AI)
-- I commit directly to production with zero tests
+- I commit directly to production with zero tests (drag and drop no Git needed)
+- I create beautiful Dashboard and User Interface (HTML, Tailwind only)
 - I get really excited about crypto, stock market (putting everything in $BYND and $SHIB)
 - I love calculating odds, applying data to get edge for Gambling and Sport Betting
   (I recently loss $1000+ at Crown Casino)
 - Ask me about **Gambling, Sport Betting, Crypto, Stock Market, oh yeah and the programming stuffs**
-- Contact me: **tylerhdang@protonmail.com**
+- Contact me: **tylerhdang@protonmail.com** (yeah I know, I use ProtonMail)
 
 
 ## Tech Stack
@@ -114,9 +115,11 @@ I would suddenly gain a boost in motivation.
 ---
 
 <div align="center">
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-  ![Roulette Table](https://raw.githubusercontent.com/tylerhdang/tylerhdang/output/github-contribution-grid-snake-dark.svg)
+
+## Feeling Lucky?
+
+<img src="./roulette.png" width="600" alt="European Roulette"/>
+
+*Place your bets on your next coding project!*
 
 </div>
