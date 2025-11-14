@@ -9,12 +9,16 @@
 ## 🚀 About Me
 
 I'm a unemployed used to be 20 years old who also happens to have a degree in Computer Science during the AI Bubble.
-- I love Gam
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
+I am the most lazy and underproductive person you will ever met, but when confronted with any of my personal interest,
+I would suddenly gain a boost in motivation.
+- I love turning ideas into reality (for whenever I want to and with AI)
+- I commit directly to production with zero tests
+- I get really excited about crypto, stock market (putting everything in $BYND and $SHIB)
+- I love calculating odds, applying data to get edge for Gambling and Sport Betting
+  (I recently loss $1000+ at Crown Casino)
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- Contact me: **tylerhdang@protonmail.com**
+
 
 ## 🛠️ Tech Stack
 
@@ -72,39 +76,38 @@ I'm a unemployed used to be 20 years old who also happens to have a degree in Co
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tylerhdang&theme=react-dark&hide_border=true&area=true)
 
-## 🎯 Featured Projects
+//## 🎯 Featured Projects
 
-<div align="center">
+//<div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
+//[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
+//[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
-</div>
+//</div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerdang14)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
-## 💭 Random Dev Quote
+//## 💭 Random Dev Quote
 
-<div align="center">
+//<div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ // ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+//</div>
 
 ## 👀 Profile Views
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/tylerhdang/count.svg)
 
 </div>
 
@@ -114,6 +117,6 @@ I'm a unemployed used to be 20 years old who also happens to have a degree in Co
   
   ### Show some ❤️ by starring some of the repositories!
   
-  ![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/tylerhdang/tylerhdang/output/github-contribution-grid-snake-dark.svg)
 
 </div>
