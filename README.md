@@ -107,7 +107,7 @@ I would suddenly gain a boost in motivation.
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/tylerhdang/count.svg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=tylerhdang&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
