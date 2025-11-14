@@ -56,11 +56,11 @@ I would suddenly gain a boost in motivation.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=radical&hide_border=true&bg_color=)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tylerhdang&show_icons=true&theme=radical&hide_border=true&bg_color=black)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=radical&hide_border=true&background=)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tylerhdang&theme=radical&hide_border=true&background=black)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=radical&hide_border=true&bg_color=)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhdang&layout=compact&theme=radical&hide_border=true&bg_color=black)
 
 </div>
 
