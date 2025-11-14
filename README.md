@@ -1,4 +1,5 @@
 # Hi, I'm Tyler Dang, your typical vibe coder
+![Profile Views](https://komarev.com/ghpvc/?username=tylerhdang&color=58a6ff&style=flat-square&label=Profile+Views)
 
 <div align="center">
   
@@ -114,7 +115,7 @@ I would suddenly gain a boost in motivation.
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=tylerhdang&color=58a6ff&style=flat-square&label=Profile+Views)
+  
 
 </div>
 
